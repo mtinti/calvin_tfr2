@@ -1,0 +1,67 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/fastqc/P1C.merged_fastqc.zip
+FastQC	all_sections	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/fastqc/P1T.merged_fastqc.zip
+FastQC	all_sections	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/fastqc/P2C.merged_fastqc.zip
+FastQC	all_sections	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/fastqc/P2T.merged_fastqc.zip
+FastQC	all_sections	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/fastqc/P3C.merged_fastqc.zip
+FastQC	all_sections	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/fastqc/P3T.merged_fastqc.zip
+fastp	all_sections	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/fastp/P1C_fastp.json
+fastp	all_sections	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/fastp/P1T_fastp.json
+fastp	all_sections	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/fastp/P2C_fastp.json
+fastp	all_sections	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/fastp/P2T_fastp.json
+fastp	all_sections	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/fastp/P3C_fastp.json
+fastp	all_sections	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/fastp/P3T_fastp.json
+Bowtie 2	all_sections	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/bowtie/P1C.log
+Bowtie 2	all_sections	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/bowtie/P1T.log
+Bowtie 2	all_sections	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/bowtie/P2C.log
+Bowtie 2	all_sections	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/bowtie/P2T.log
+Bowtie 2	all_sections	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/bowtie/P3C.log
+Bowtie 2	all_sections	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/bowtie/P3T.log
+Picard	DuplicationMetrics	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/markduplicates/marked_dup_metrics.txt
+FastQ Screen	all_sections	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/fastqs/P1C.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/fastqs/P1T.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/fastqs/P2C.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/fastqs/P2T.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/fastqs/P3C.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/fastqs/P3T.sorted_unmap_all_1_screen.txt
+QualiMap	genome_results	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/qualimap/genome_results.txt
+QualiMap	genome_results	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/qualimap/genome_results.txt
+QualiMap	genome_results	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/qualimap/genome_results.txt
+QualiMap	genome_results	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/qualimap/genome_results.txt
+QualiMap	genome_results	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/qualimap/genome_results.txt
+QualiMap	genome_results	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/qualimap/genome_results.txt
+QualiMap	coverage_histogram	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/qualimap/P1C/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/qualimap/P1T/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/qualimap/P2C/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/qualimap/P2T/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/qualimap/P3C/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/qualimap/P3T/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	mapped_gc_distribution	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/qualimap/P1C/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/qualimap/P1T/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/qualimap/P2C/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/qualimap/P2T/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/qualimap/P3C/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/qualimap/P3T/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	rna_genome_results	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/qualimap/P1C/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/qualimap/P1T/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/qualimap/P2C/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/qualimap/P2T/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/qualimap/P3C/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/qualimap/P3T/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+featureCounts	all_sections	P1C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1C/res/P1C/featureCounts/counts.txt.summary
+featureCounts	all_sections	P1T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P1T/res/P1T/featureCounts/counts.txt.summary
+featureCounts	all_sections	P2C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2C/res/P2C/featureCounts/counts.txt.summary
+featureCounts	all_sections	P2T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P2T/res/P2T/featureCounts/counts.txt.summary
+featureCounts	all_sections	P3C	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3C/res/P3C/featureCounts/counts.txt.summary
+featureCounts	all_sections	P3T	/cluster/majf_lab/mtinti/Calvin/TfrKD2/P3T/res/P3T/featureCounts/counts.txt.summary

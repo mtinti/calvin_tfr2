@@ -1,0 +1,7 @@
+Sample	command
+P1C	fastp -i /tmp/3092.1.all.q/P1C/data/P1C.merged.fastq.gz -o /tmp/3092.1.all.q/P1C/data/P1C.cmerged.fastq.gz -h /tmp/3092.1.all.q/P1C/fastp/fastp_P1C.html -j /tmp/3092.1.all.q/P1C/fastp/P1C_fastp.json 
+P1T	fastp -i /tmp/3093.1.all.q/P1T/data/P1T.merged.fastq.gz -o /tmp/3093.1.all.q/P1T/data/P1T.cmerged.fastq.gz -h /tmp/3093.1.all.q/P1T/fastp/fastp_P1T.html -j /tmp/3093.1.all.q/P1T/fastp/P1T_fastp.json 
+P2C	fastp -i /tmp/3094.1.all.q/P2C/data/P2C.merged.fastq.gz -o /tmp/3094.1.all.q/P2C/data/P2C.cmerged.fastq.gz -h /tmp/3094.1.all.q/P2C/fastp/fastp_P2C.html -j /tmp/3094.1.all.q/P2C/fastp/P2C_fastp.json 
+P2T	fastp -i /tmp/3095.1.all.q/P2T/data/P2T.merged.fastq.gz -o /tmp/3095.1.all.q/P2T/data/P2T.cmerged.fastq.gz -h /tmp/3095.1.all.q/P2T/fastp/fastp_P2T.html -j /tmp/3095.1.all.q/P2T/fastp/P2T_fastp.json 
+P3C	fastp -i /tmp/3096.1.all.q/P3C/data/P3C.merged.fastq.gz -o /tmp/3096.1.all.q/P3C/data/P3C.cmerged.fastq.gz -h /tmp/3096.1.all.q/P3C/fastp/fastp_P3C.html -j /tmp/3096.1.all.q/P3C/fastp/P3C_fastp.json 
+P3T	fastp -i /tmp/3097.1.all.q/P3T/data/P3T.merged.fastq.gz -o /tmp/3097.1.all.q/P3T/data/P3T.cmerged.fastq.gz -h /tmp/3097.1.all.q/P3T/fastp/fastp_P3T.html -j /tmp/3097.1.all.q/P3T/fastp/P3T_fastp.json 
