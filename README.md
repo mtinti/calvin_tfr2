@@ -1,5 +1,5 @@
 ![title](static/wcar.png)
-# TbGPI3
+# RBP5
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtinti/calvin_tfr/HEAD?filepath=FiguresPaper.ipynb)
 [![DOI](https://zenodo.org/badge/285675864.svg)](https://zenodo.org/badge/latestdoi/285675864)
